@@ -1,0 +1,6 @@
+# Ignorar arquivos de sistema e temporários
+.DS_Store
+__MACOSX/
+*.tmp
+node_modules/
+.vercel/

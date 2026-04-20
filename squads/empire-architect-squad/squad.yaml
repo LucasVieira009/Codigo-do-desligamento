@@ -1,0 +1,27 @@
+name: empire-architect-squad
+version: "1.0.0"
+short-title: "Empire Architects"
+description: "O squad definitivo para construção de impérios digitais escaláveis, automatizados e lucrativos."
+author: "Gemini Orchestrator"
+
+agents:
+  - martin-fowler
+  - jan-oberhauser
+  - lee-robinson
+  - pieter-levels
+  - tiago-forte
+  - alex-hormozi
+  - linus-torvalds
+
+tasks:
+  - t-mvp-sprint.md
+  - t-automation-map.md
+  - t-offer-engineering.md
+  - t-clean-architecture-audit.md
+
+workflows:
+  - wf-empire-launch.yaml
+  - wf-second-brain-integration.yaml
+
+checklists:
+  - empire-standard.md

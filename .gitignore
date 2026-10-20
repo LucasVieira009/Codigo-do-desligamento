@@ -4,3 +4,4 @@ __MACOSX/
 *.tmp
 node_modules/
 .vercel/
+._*
